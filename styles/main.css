@@ -1,1 +1,11 @@
-/*# sourceMappingURL=main.css.map */
+.img {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+p {
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: green;
+}/*# sourceMappingURL=main.css.map */
